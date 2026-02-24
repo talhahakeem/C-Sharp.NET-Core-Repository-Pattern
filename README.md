@@ -4,7 +4,7 @@ This repository demonstrates the implementation of the **Repository Pattern** an
 
 ## 🚀 Key Features
 * **Generic Repository:** Reusable logic for standard CRUD operations. 
-* **Unit of Work:** Ensures atomicity by managing multiple repository transactions.
+* **Unit of Work:** Ensures atomicity by managing multiple repository transactions. 
 * **Dependency Injection:** Clean service registration and management.
 * **Separation of Concerns:** Distinct layers for Data Access, Logic, and API. 
 
