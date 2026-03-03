@@ -2,7 +2,7 @@
 
 This repository demonstrates the implementation of the **Repository Pattern** and **Unit of Work** in an ASP.NET Core environment. The goal is to create a data access layer that is loosely coupled, easy to maintain, and highly testable.
  
-## 🚀 Key Features
+## 🚀 Key Features 
 * **Generic Repository:** Reusable logic for standard CRUD operations. 
 * **Unit of Work:** Ensures atomicity by managing multiple repository transactions. 
 * **Dependency Injection:** Clean service registration and management. 
