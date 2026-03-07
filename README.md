@@ -8,7 +8,7 @@ This repository demonstrates the implementation of the **Repository Pattern** an
 * **Dependency Injection:** Clean service registration and management. 
 * **Separation of Concerns:** Distinct layers for Data Access, Logic, and API.   
  
-## 🏗️ Project Architecture 
+## 🏗️ Project Architecture  
 The project follows a layered architecture to ensure a clean codebase:
 1.  **Core/Domain:** Contains Entities and Interface definitions. 
 2.  **Infrastructure:** Implements the Interfaces and DbContext using Entity Framework Core.
