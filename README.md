@@ -17,7 +17,7 @@ The project follows a layered architecture to ensure a clean codebase:
 
 ## 🛠️ Technologies Used
 * .NET Core 
-* Entity Framework Core
+* Entity Framework Core 
 * LINQ
 
 
