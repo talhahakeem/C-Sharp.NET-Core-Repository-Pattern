@@ -15,7 +15,7 @@ The project follows a layered architecture to ensure a clean codebase:
 3.  **API/Web:** The entry point that consumes the services via Dependency Injection.
 
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 * .NET Core 
 * Entity Framework Core 
 * LINQ
