@@ -1,4 +1,4 @@
-# ASP.NET Core Repository Pattern Implementation             
+# ASP.NET Core Repository Pattern Implementation              
     
 This repository demonstrates the implementation of the **Repository Pattern** and **Unit of Work** in an ASP.NET Core environment. The goal is to create a data access layer that is loosely coupled, easy to maintain, and highly testable.        
     
